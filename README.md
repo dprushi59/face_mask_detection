@@ -1,4 +1,4 @@
-ace Mask Detection using Convolutional Neural Networks
+Face Mask Detection using Convolutional Neural Networks
 This project focuses on training a Convolutional Neural Network (CNN) to classify whether a person in an image is wearing a face mask or not. The dataset used for this project is obtained from Kaggle's Face Mask Dataset.
 
 Project Overview
